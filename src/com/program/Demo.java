@@ -16,6 +16,11 @@ public class Demo {
 		System.out.println("learning git");
 		System.err.print(false);
 
+		System.out.println("this is a m1 in demo class");
+
+		System.out.println("this is a m1 in demo");
+		System.out.println("changes done at 10.17AM");
+
 	}
 
 }
